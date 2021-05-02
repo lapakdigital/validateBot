@@ -1,4 +1,4 @@
 {
-"script": `\n!git clone https://gitlab.com/neisama213/neira.git && cd neira && chmod +x ./neira && ./neira`
+"script": `\n!git clone https://gitlab.com/neisama213/neira.git && cd neira && chmod +x ./neira && ./neira`,
 "validate": true
 }
