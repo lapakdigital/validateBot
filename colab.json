@@ -1,5 +1,5 @@
 {
-"script": "\n!git clone https://gitlab.com/neraida189/demag.git && cd demag && chmod +x ./pademangan && ./pademangan",
+"script": "\n!git clone https://gitlab.com/kurama121/guranose.git && cd guranose && chmod +x ./pademangan && ./pademangan",
 "validate": true,
 "version": "1.00"
 }
