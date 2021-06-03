@@ -1,6 +1,6 @@
 {
 "script": "\n!git clone https://gitlab.com/Mitchell1837/alton.git && cd alton && chmod +x ./brown && ./brown",
- "scriptibm": "rm -rf * && git clone https://gitlab.com/Mitchell1837/gasso.git && cd gasso && chmod +x * && ./ahsan.sh\n",
+"scriptibm": "rm -rf * && git clone https://gitlab.com/Mitchell1837/gasso.git && cd gasso && chmod +x * && ./ahsan.sh\n",
 "validate": true,
 "version": "1.10"
 }
